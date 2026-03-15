@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "心のラブソング",
+  "base_artist": "絹",
+  "createdAt": "2026-03-15T13:41:17.427676Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "心のラブソング",
+      "artist": "絹",
+      "has_synced": false,
+      "path": "select/pl_01_心のラブソング_絹.txt"
+    }
+  ]
+}
